@@ -13,8 +13,8 @@ Here are some of my favorite Rust open source projects:
 
 I am living in Vienna, Austria and here are my favorite local meetups:
 
-[Svelte Society Austria](https://austria.sveltesociety.dev/)  
 [Rust Vienna](https://www.meetup.com/rust-vienna/)  
+[Svelte Society Austria](https://austria.sveltesociety.dev/)  
 [ViennaJS](https://www.meetup.com/viennajs/)  
 
 Blog articles:  
@@ -24,9 +24,10 @@ Blog articles:
 [How to build a Tauri PDF viewer with PSPDFKit](https://www.nutrient.io/blog/how-to-build-a-tauri-pdf-viewer-with-pspdfkit/)  
 [How to Build a .NET MAUI PDF Viewer with the PSPDFKit SDK](https://www.nutrient.io/blog/how-to-build-a-dotnet-maui-pdf-viewer-with-pspdfkit/)  
 
+<!--
 Feel free to check out my other gihub account dedicated to open source PDF libraries written in Rust:  
 [github.com/apryse](https://github.com/apryse)
-<!--
+
 **patrik64/patrik64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
