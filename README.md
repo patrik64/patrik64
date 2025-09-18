@@ -15,6 +15,7 @@ I am living in Vienna, Austria and here are my favorite local meetups:
 
 [Rust Vienna](https://www.meetup.com/rust-vienna/)  
 [Svelte Society Austria](https://austria.sveltesociety.dev/)  
+[eBPF Vienna](https://www.meetup.com/ebpf-vienna/)  
 [ViennaJS](https://www.meetup.com/viennajs/)  
 
 Blog articles:  
