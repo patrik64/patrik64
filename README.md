@@ -11,6 +11,11 @@ Here are some of my favorite Rust open source projects:
 [graphite](https://github.com/GraphiteEditor/Graphite)  
 [typst](https://github.com/typst/typst)
 
+And here are some of my favorite SvelteKit related open source projects:  
+[Remult](https://remult.dev/)  
+[Learn Remult](https://learn.remult.dev)  
+[Remult talk by Jean-Yves Couet](https://www.youtube.com/watch?v=A3cqzv-zRe8)  
+
 I am living in Vienna, Austria and here are my favorite local meetups:
 
 [Rust Vienna](https://www.meetup.com/rust-vienna/)  
