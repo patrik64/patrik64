@@ -13,9 +13,9 @@ Here are some of my favorite Rust open source projects:
 
 Here are some of my favorite SvelteKit related open source projects:  
   
-[Remult](https://remult.dev/)  
-[Learn Remult](https://learn.remult.dev)  
-[Remult talk by Jean-Yves Couet](https://www.youtube.com/watch?v=A3cqzv-zRe8)  
+[remult](https://remult.dev/)  
+[learn remult](https://learn.remult.dev)  
+[remult talk by Jean-Yves Couet](https://www.youtube.com/watch?v=A3cqzv-zRe8)  
 [animotion](https://github.com/animotionjs/animotion)  
 
 I am living in Vienna, Austria and here are my favorite local meetups:
