@@ -7,9 +7,9 @@ I am a daily user of Rust and Svelte(Kit).
 Here are some of my favorite Rust open source projects:
 
 [quadratic](https://github.com/quadratichq/quadratic)  
-[zed](https://github.com/zed-industries/zed)  
 [graphite](https://github.com/GraphiteEditor/Graphite)  
 [typst](https://github.com/typst/typst)
+[zed](https://github.com/zed-industries/zed)  
 
 And here are some of my favorite SvelteKit related open source projects:  
   
