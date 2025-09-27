@@ -17,6 +17,7 @@ Here are some of my favorite SvelteKit related open source projects:
 [learn remult](https://learn.remult.dev)  
 [remult talk by Jean-Yves Couet](https://www.youtube.com/watch?v=A3cqzv-zRe8)  
 [animotion](https://github.com/animotionjs/animotion)  
+[skyzoo.blue](https://skyzoo.blue/stats)  
 
 I am living in Vienna, Austria and here are my favorite local meetups:
 
