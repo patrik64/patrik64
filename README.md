@@ -4,14 +4,14 @@ My name is Patrik, a Rust/C++ programmer previously employed by [PSPDFKit](https
 
 I am a daily user of Rust and Svelte(Kit).
 
-Here are some of my favorite Rust open source projects:
+some of my favorite Rust open source projects:
 
 [quadratic](https://github.com/quadratichq/quadratic)  
 [graphite](https://github.com/GraphiteEditor/Graphite)  
-[typst](https://github.com/typst/typst)
+[typst](https://github.com/typst/typst)  
 [zed](https://github.com/zed-industries/zed)  
 
-Here are some of my favorite SvelteKit related open source projects:  
+some of my favorite SvelteKit related open source projects:  
   
 [remult](https://remult.dev/)  
 [learn remult](https://learn.remult.dev)  
@@ -27,7 +27,7 @@ I am living in Vienna, Austria and here are my favorite local meetups:
 [ViennaJS](https://www.meetup.com/viennajs/)  
 [Claude Code Anonymous](https://steipete.me/posts/2025/claude-code-anonymous)
 
-Blog articles:  
+blog articles I wrote:  
 
 [Sonus Vox](https://www.nutrient.io/blog/sonus-vox/)  
 [A Perfect Gift](https://www.nutrient.io/blog/a-perfect-gift/)  
