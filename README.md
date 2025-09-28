@@ -1,6 +1,6 @@
 ## Hi
 
-My name is Patrik, a Rust/C++ programmer previously employed by [PSPDFKit](https://www.pspdfkit.com) (now Nutrient) - ([CV](https://github.com/patrik64/patrik64/blob/main/cv.pdf)).
+my name is Patrik, a Rust/C++ programmer previously employed by [PSPDFKit](https://www.pspdfkit.com) (now Nutrient) - ([CV](https://github.com/patrik64/patrik64/blob/main/cv.pdf)).
 
 I am a daily user of Rust and Svelte(Kit).
 
