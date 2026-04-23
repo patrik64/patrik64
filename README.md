@@ -1,6 +1,6 @@
 ## Hi
 
-my name is Patrik, a Rust/C++ programmer currently employed by [Ketryx](https://www.ketryx.com)
+my name is Patrik, a Rust/typescript programmer currently employed by [Ketryx](https://www.ketryx.com)
 
 I am a daily user of Rust and Svelte(Kit).
 
