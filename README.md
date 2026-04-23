@@ -6,7 +6,7 @@ I am a daily user of Rust and Svelte(Kit).
 
 some of my favorite Rust open source projects:
 
-[quadratic](https://github.com/quadratichq/quadratic)  
+[quadratic](https://github.com/apryse/quadratic)  
 [graphite](https://github.com/GraphiteEditor/Graphite)  
 [typst](https://github.com/typst/typst)  
 [zed](https://github.com/zed-industries/zed)  
