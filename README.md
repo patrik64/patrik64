@@ -1,6 +1,9 @@
 ## Hi
 
-my name is Patrik, a Rust/typescript programmer currently employed by [Ketryx](https://www.ketryx.com)
+my name is Patrik, a Rust/typescript programmer previously employed by [Ketryx](https://www.ketryx.com) and currently looking for work.  
+my [CV](https://github.com/patrik64/patrik64/blob/main/cv.pdf).
+
+I recently created [portfolio-alert](https://portfolio-alert.vercel.app/) to aid me in finding a new job. 
 
 I am a daily user of Rust and Svelte(Kit).
 
@@ -34,20 +37,3 @@ blog articles I wrote:
 [How to build a Tauri PDF viewer with PSPDFKit](https://www.nutrient.io/blog/how-to-build-a-tauri-pdf-viewer-with-pspdfkit/)  
 [How to Build a .NET MAUI PDF Viewer with the PSPDFKit SDK](https://www.nutrient.io/blog/how-to-build-a-dotnet-maui-pdf-viewer-with-pspdfkit/)  
 
-<!--
-Feel free to check out my other gihub account dedicated to open source PDF libraries written in Rust:  
-[github.com/apryse](https://github.com/apryse)
-
-**patrik64/patrik64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
