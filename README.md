@@ -3,7 +3,7 @@
 my name is Patrik, a Rust/typescript programmer previously employed by [Ketryx](https://www.ketryx.com) and currently looking for work.  
 my [CV](https://github.com/patrik64/patrik64/blob/main/cv.pdf).
 
-I recently created [startup-alert](https://startup-alert.vercel.app/) and [job-alert](https://job-alert-pax.vercel.app/) to aid me in finding a new job.  
+I recently created [portfolio-alert](https://portfolio-alert.vercel.app/) and [job-alert](https://job-alert-pax.vercel.app/) to aid me in finding a new job.  
 
 [Rust Job Alert](https://bsky.app/profile/rust-job-alert.bsky.social)
 
