@@ -5,7 +5,7 @@ my [CV](https://github.com/patrik64/patrik64/blob/main/cv.pdf).
 
 I recently created [startup-alert](https://startup-alert.vercel.app/) and [job-alert](https://job-alert-pax.vercel.app/) to aid me in finding a new job.  
 
-daily notifications - [Rust Job Alert](https://bsky.app/profile/rust-job-alert.bsky.social)
+notifications - [Rust Job Alert](https://bsky.app/profile/rust-job-alert.bsky.social)
 
 I am a daily user of Rust and Svelte(Kit).
 
