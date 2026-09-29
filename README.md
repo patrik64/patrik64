@@ -1,3 +1,10 @@
+========================   **NEWS**   ========================
+
+I'll be giving a talk at the upcoming React Vienna meetup on October 6th at Sentry:  
+https://www.meetup.com/reactvienna/events/316649262
+
+======================================================
+
 ## Hi
 
 my name is Patrik, a Rust/typescript programmer previously employed by [Ketryx](https://www.ketryx.com) and currently looking for work.  
