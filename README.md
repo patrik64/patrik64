@@ -1,9 +1,9 @@
-========================   **NEWS**   ========================
+=============================   **NEWS**   =============================
 
 I'll be giving a talk at the upcoming React Vienna meetup on October 6th at [Sentry](https://maps.app.goo.gl/98EjWdpa9yDxDsK2A):  
 https://www.meetup.com/reactvienna/events/316649262
 
-======================================================
+================================================================
 
 ## Hi
 
