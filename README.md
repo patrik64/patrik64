@@ -7,7 +7,7 @@ https://www.meetup.com/reactvienna/events/316649262
 
 ## Hi
 
-my name is Patrik, a Rust/typescript programmer previously employed by [Ketryx](https://www.ketryx.com) and currently looking for work.  
+my name is Patrik, a Rust/TypeScript programmer previously employed by [Ketryx](https://www.ketryx.com) and currently looking for work.  
 my [CV](https://github.com/patrik64/patrik64/blob/main/cv.pdf).
 
 I recently created [portfolio-alert](https://portfolio-alert.vercel.app/) and [job-alert](https://job-alert-pax.vercel.app/) to aid me in finding a new job.  
