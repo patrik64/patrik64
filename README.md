@@ -39,8 +39,8 @@ I am living in Vienna, Austria and here are my favorite local meetups:
 [Svelte Society Austria](https://austria.sveltesociety.dev/)  
 [eBPF Vienna](https://www.meetup.com/ebpf-vienna/)  
 [ViennaJS](https://www.meetup.com/viennajs/)  
-[NodeJS Vienna](https://www.meetup.com/nodejs-vienna/)
-[React Vienna](https://www.meetup.com/reactvienna/). 
+[NodeJS Vienna](https://www.meetup.com/nodejs-vienna/)  
+[React Vienna](https://www.meetup.com/reactvienna/)  
 [Claude Code Anonymous](https://steipete.me/posts/2025/claude-code-anonymous)
 
 blog articles I wrote:  
