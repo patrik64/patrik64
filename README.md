@@ -35,7 +35,7 @@ some of my favorite SvelteKit related open source projects:
 
 I am living in Vienna, Austria and here are my favorite local meetups:
 
-[Rust Vienna](https://www.meetup.com/rust-vienna/)  
+[Rust Vienna](https://wienerkruste.rs/)  
 [Svelte Society Austria](https://austria.sveltesociety.dev/)  
 [eBPF Vienna](https://www.meetup.com/ebpf-vienna/)  
 [ViennaJS](https://www.meetup.com/viennajs/)  
