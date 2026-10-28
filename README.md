@@ -1,7 +1,7 @@
 =============================   **NEWS**   =============================
 
-I'll be giving a talk at the upcoming ViennaJS meetup on October 28th at [Ketryx](https://maps.app.goo.gl/zDL4SnUb4bsEv6Xd9):  
-https://www.meetup.com/viennajs/events/316696137/
+I'll be giving a talk at the upcoming Node.js meetup on November 12th at [Flinn](https://maps.app.goo.gl/sCpoSAknZFDyaJYB9):  
+https://www.meetup.com/nodejs-vienna/events/316960156/
 
 ================================================================
 
