@@ -1,7 +1,10 @@
 =============================   **NEWS**   =============================
 
 I'll be giving a talk at the upcoming Node.js meetup on November 12th at [Flinn](https://maps.app.goo.gl/sCpoSAknZFDyaJYB9):  
-https://www.meetup.com/nodejs-vienna/events/316960156/
+https://www.meetup.com/nodejs-vienna/events/316960156/  
+
+slides and demo apps from my previous talks you can find here:  
+https://github.com/patrik64/meetup-talks
 
 ================================================================
 
