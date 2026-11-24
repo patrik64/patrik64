@@ -9,7 +9,7 @@ daily posts:
 - [Portfolio Alert](https://bsky.app/profile/portfolio-alert.bsky.social)
 - [Rust Job Alert](https://bsky.app/profile/rust-job-alert.bsky.social)
 
-the slides and demo apps from my recent talks you can find [here](Https://github.com/patrik64/meetup-talks).
+the slides and demo applications from my recent talks you can find [here](Https://github.com/patrik64/meetup-talks).
 
 
 I am a daily user of Rust and Svelte(Kit).
