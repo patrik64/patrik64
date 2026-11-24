@@ -1,20 +1,16 @@
-=============================   **NEWS**   =============================
-
-slides and demo apps from my recent talks you can find here:  
-https://github.com/patrik64/meetup-talks
-
-================================================================
-
 ## Hi
 
 my name is Patrik, a Rust/TypeScript programmer previously employed by [Ketryx](https://www.ketryx.com).  
 my [CV](https://github.com/patrik64/patrik64/blob/main/cv.pdf).
 
-I recently created [www.portfolio-alert.com](https://portfolio-alert.vercel.app/statistics)  
+I recently created [www.portfolio-alert.com](https://portfolio-alert.com/statistics)  
 
 daily posts:
 - [Portfolio Alert](https://bsky.app/profile/portfolio-alert.bsky.social)
 - [Rust Job Alert](https://bsky.app/profile/rust-job-alert.bsky.social)
+
+the slides and demo apps from my recent talks you can find [here](Https://github.com/patrik64/meetup-talks).
+
 
 I am a daily user of Rust and Svelte(Kit).
 
