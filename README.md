@@ -7,10 +7,10 @@ https://github.com/patrik64/meetup-talks
 
 ## Hi
 
-my name is Patrik, a Rust/TypeScript programmer previously employed by [Ketryx](https://www.ketryx.com) and currently looking for work.  
+my name is Patrik, a Rust/TypeScript programmer previously employed by [Ketryx](https://www.ketryx.com).  
 my [CV](https://github.com/patrik64/patrik64/blob/main/cv.pdf).
 
-I recently created [portfolio-alert](https://portfolio-alert.vercel.app/statistics) and [job-alert](https://job-alert-pax.vercel.app/statistics) to aid me in finding a new job.  
+I recently created [www.portfolio-alert.com](https://portfolio-alert.vercel.app/statistics)  
 
 daily posts:
 - [Portfolio Alert](https://bsky.app/profile/portfolio-alert.bsky.social)
